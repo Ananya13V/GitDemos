@@ -1,2 +1,0 @@
-# GitDemos
-Training Related Repository
